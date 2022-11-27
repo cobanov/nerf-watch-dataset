@@ -4,13 +4,13 @@ This repo contains wall clock photos of 44 photos to generate NeRFs like instant
 
 ## Download
 - Clone repo or
-- [Google Drive](https://drive.google.com/drive/folders/1Fdf4ggWbMmbghFQ0FpmWG53kT614WpXq?usp=sharing)
+- [Google Drive](https://drive.google.com/file/d/1PdnXoqV6AAXFpt5NGwdbNQATyXuh8Z5e/view?usp=share_link)
 - [Mega](https://mega.nz/folder/OnhxUK5a#kQ8yd-WTbs60T1Xha0Goww)
 
 Also you can download via gdown
 
 ```
-gdown --folder 1Fdf4ggWbMmbghFQ0FpmWG53kT614WpXq
+gdown 1PdnXoqV6AAXFpt5NGwdbNQATyXuh8Z5e
 ```
 
 ## Example
