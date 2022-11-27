@@ -10,7 +10,7 @@ This repo contains wall clock photos of 44 photos to generate NeRFs like instant
 Also you can download via gdown
 
 ```
-gdown 1Fdf4ggWbMmbghFQ0FpmWG53kT614WpXq
+gdown --folder 1Fdf4ggWbMmbghFQ0FpmWG53kT614WpXq
 ```
 
 ## Example
